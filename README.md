@@ -1,2 +1,2 @@
 # service-media
-Media Service API of Online Course Website with Microservice architecture using Express.js.
+This is Media Service API of Online Course Website. It's still in progress, there will be more services.
